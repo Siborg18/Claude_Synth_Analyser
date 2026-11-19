@@ -1,0 +1,11 @@
+# Build output
+bin/
+obj/
+.vs/
+*.user
+*.exe
+*.dll
+*.pdb
+*.wav
+examples/
+Test Files/
